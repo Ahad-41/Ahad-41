@@ -1,5 +1,4 @@
 <h3 align="center">A Competetive Programmer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahad-41&label=Profile%20views&color=0e75b6&style=flat" alt="ahad-41" /> </p>
 
 ### About Me
 - [linkedin/ahad42](https://www.linkedin.com/in/ahad42)
