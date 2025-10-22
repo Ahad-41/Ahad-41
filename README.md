@@ -5,7 +5,7 @@
 
 
 ### My Stacks
-- Languages: C++ | Java | Javascript
+- Languages: C++ | Java | Javascript | Python
 
 - Frontend: Bootstrap | Tailwind | React
 
