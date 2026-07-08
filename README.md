@@ -1,7 +1,7 @@
 <h3 align="center">A Competetive Programmer</h3>
 
 ### About Me
-- [linkedin/ahad41](https://www.linkedin.com/in/ahad41)
+- [linkedin/ahad41](https://www.linkedin.com/in/ahad041)
 
 
 ### My Stacks
